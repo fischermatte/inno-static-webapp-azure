@@ -1,0 +1,1 @@
+# inno-static-webapp-azure
